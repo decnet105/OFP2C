@@ -1,0 +1,9 @@
+Announcing GPT-4, a large multimodal model, with our best-ever results on capabilities and alignment: https://openai.com/product/gpt-4
+
+If you are a ChatGPT Plus subscriber, you can access GPT-4 right now (small edit: it is rolling out to all plus subscribers over the next few hours, hang tight)! If you want access via the API, you can join the waitlist: https://openai.com/waitlist/gpt-4-api
+
+We are also giving priority API access to those who contribute evals via: https://github.com/openai/evals
+
+Last, join us at 1 PM PST for a developer preview of GPT-4: https://www.youtube.com/watch?v=outcGtbnMuQ
+
+We can't wait to see what you think and build!
