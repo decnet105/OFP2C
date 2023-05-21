@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-21T13:38:39.619Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eSZJffqUdlITVDeuCQ8U" version="18.0.1" type="github">
+<mxfile modified="2023-05-21T18:20:21.901Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="72_sx5mB9VHddy5yQVVr" version="18.0.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="3273" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -238,11 +238,44 @@
             <mxPoint x="-510.5" y="772.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Azure Storage&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-922" y="910" width="760" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="6MFCxm3bSzi7i473cwlA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-391.5" y="772.79" as="sourcePoint" />
             <mxPoint x="-320.5" y="772.79" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-1" value="&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;A lake database is a type of database that you can define in your workspace, and work with using the built-in serverless SQL pool.&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="43.86" y="1100" width="820" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-2" value="" style="aspect=fixed;verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storsimple;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="935" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-4" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="836.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-5" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="836.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-6" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-564.37" y="836.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-7" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-374.37" y="836.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-817.5" y="955" width="497" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
