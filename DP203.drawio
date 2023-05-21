@@ -1,6 +1,6 @@
-<mxfile modified="2023-05-21T18:25:30.899Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Sy0SIqx8FkeywVKe4BCi" version="18.0.1" type="github">
+<mxfile modified="2023-05-21T22:23:20.103Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k0MLWDzA3gd3DmZpJC7S" version="18.0.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="3273" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3273" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="lLchY-0EjMVF6-OAYmTf-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="122.22" y="1085" width="497" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-20" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;The Data Movement Service (DMS) is a system-level internal service that moves &lt;br&gt;data across the nodes as necessary to run queries in parallel and return accurate results.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-857" y="1100" width="630" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
