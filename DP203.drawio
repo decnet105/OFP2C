@@ -1,6 +1,6 @@
-<mxfile modified="2023-05-23T11:52:06.945Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hDOQnv_d_feqGuQPBdmf" version="18.0.1" type="github">
+<mxfile modified="2023-05-24T18:31:14.174Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DmxsAYI49ZkOpjZSmQgx" version="21.3.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="3273" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,7 +238,7 @@
             <mxPoint x="-510.5" y="772.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Azure Storage&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Azure Storage&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-922" y="910" width="760" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6MFCxm3bSzi7i473cwlA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" edge="1">
@@ -247,28 +247,28 @@
             <mxPoint x="-320.5" y="772.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-1" value="&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;A lake database is a type of database that you can define in your workspace, and work with using the built-in serverless SQL pool.&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-1" value="&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;A lake database is a type of database that you can define in your workspace, and work with using the built-in serverless SQL pool.&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="870" y="803" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-2" value="" style="aspect=fixed;verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storsimple;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-2" value="" style="aspect=fixed;verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storsimple;" parent="1" vertex="1">
           <mxGeometry x="-880" y="935" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-4" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-4" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-940" y="836.5" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-5" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-5" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-750" y="836.5" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-6" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-6" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-564.37" y="836.5" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-7" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-7" value="Compute Note" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-374.37" y="836.5" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-817.5" y="955" width="497" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-855.5900000000005" y="900" as="sourcePoint" />
             <mxPoint x="-856" y="870" as="targetPoint" />
@@ -277,13 +277,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-14" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-659.9999999999999" y="910" as="sourcePoint" />
             <mxPoint x="-659.9999999999999" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-474.5400000000006" y="900" as="sourcePoint" />
             <mxPoint x="-474.95" y="870" as="targetPoint" />
@@ -292,47 +292,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-280.00000000000045" y="910" as="sourcePoint" />
             <mxPoint x="-280.00000000000045" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Azure Storage&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Azure Storage&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="17.72" y="1040" width="760" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-18" value="" style="aspect=fixed;verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storsimple;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-18" value="" style="aspect=fixed;verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storsimple;" parent="1" vertex="1">
           <mxGeometry x="59.72" y="1065" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="122.22" y="1085" width="497" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-20" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;The Data Movement Service (DMS) is a system-level internal service that moves &lt;br&gt;data across the nodes as necessary to run queries in parallel and return accurate results.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-20" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;The Data Movement Service (DMS) is a system-level internal service that moves &lt;br&gt;data across the nodes as necessary to run queries in parallel and return accurate results.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-857" y="1100" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-21" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Serverless SQL pool allows you to query your data lake files.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;It doesn&#39;t have local storage for data ingestion.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-21" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Serverless SQL pool allows you to query your data lake files.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;It doesn&#39;t have local storage for data ingestion.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="17.72" y="1220" width="762.28" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-22" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Dedicated SQL pool allows you to query and ingest data from your data lake files. When data is ingested into dedicated SQL pool, the data is sharded into&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;distributions&lt;/span&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;to optimize the performance of the system.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;box-sizing: inherit; outline-color: inherit; margin: 16px 0px 16px 38px; padding: 0px; list-style: none; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Hash (use for large fact table)&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Round Robin&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Replicate (use for small dim tables)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-22" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Dedicated SQL pool allows you to query and ingest data from your data lake files. When data is ingested into dedicated SQL pool, the data is sharded into&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; outline-color: inherit; font-weight: 600; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;distributions&lt;/span&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;to optimize the performance of the system.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;box-sizing: inherit; outline-color: inherit; margin: 16px 0px 16px 38px; padding: 0px; list-style: none; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Hash (use for large fact table)&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Round Robin&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Replicate (use for small dim tables)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-920" y="1220" width="758" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-23" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In Synapse SQL, the distributed query engine runs on the Control node to optimize and coordinate parallel queries. When you submit a T-SQL query to dedicated SQL pool, the Control node transforms it into queries that run against each distribution in parallel.&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-23" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In Synapse SQL, the distributed query engine runs on the Control node to optimize and coordinate parallel queries. When you submit a T-SQL query to dedicated SQL pool, the Control node transforms it into queries that run against each distribution in parallel.&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-450" y="170" width="400" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-24" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In serverless SQL pool, the DQP engine runs on Control node to optimize and coordinate distributed execution of user query by splitting it into smaller queries that will be executed on Compute nodes. It also assigns sets of files to be processed by each node.&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-24" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In serverless SQL pool, the DQP engine runs on Control node to optimize and coordinate distributed execution of user query by splitting it into smaller queries that will be executed on Compute nodes. It also assigns sets of files to be processed by each node.&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="160" width="420" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;dashed=1;strokeWidth=5;strokeColor=#7EA6E0;" edge="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;dashed=1;strokeWidth=5;strokeColor=#7EA6E0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="1500" as="sourcePoint" />
             <mxPoint x="-10" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-27" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;The number of compute nodes ranges from 1 to 60, and is determined by the service level for the dedicated SQL pool.&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-27" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;The number of compute nodes ranges from 1 to 60, and is determined by the service level for the dedicated SQL pool.&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="710" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="lLchY-0EjMVF6-OAYmTf-28" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In serverless SQL pool, each Compute node is assigned task and set of files to execute task on. Task is distributed query execution unit, which is actually part of query user submitted. Automatic scaling is in effect to make sure enough Compute nodes are utilized to execute user query.&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lLchY-0EjMVF6-OAYmTf-28" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In serverless SQL pool, each Compute node is assigned task and set of files to execute task on. Task is distributed query execution unit, which is actually part of query user submitted. Automatic scaling is in effect to make sure enough Compute nodes are utilized to execute user query.&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="870" y="900" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-1" value="Azure Synapse Analytics Link for Cosmos DB enables&amp;nbsp;&lt;em style=&quot;box-sizing: inherit; outline-color: inherit; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;hybrid transactional/analytical processing&lt;/em&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(HTAP) integration between Azure Cosmos DB and Azure Synapse Analytics. By using this HTAP solution, organizations can make operational data in Azure Cosmos DB available for analysis and reporting in Azure Synapse Analytics in near-real time without the need to develop a complex ETL pipeline.&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-922" y="1600" width="762" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-gb/training/wwl-data-ai/configure-azure-synapse-link-with-azure-cosmos-db/media/synapse-link-cosmos-db.png;" vertex="1" parent="1">
+          <mxGeometry x="-869" y="1800" width="600" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-5" value="&#xa;&lt;ol style=&quot;box-sizing: inherit; outline-color: inherit; margin: 16px 0px 16px 38px; padding: 0px; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: decimal;&quot;&gt;An Azure Cosmos DB container provides a row-based transactional store that is optimized for read/write operations.&lt;/li&gt;&lt;/ol&gt;&#xa;&#xa;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1178.23" y="2140" width="298.23" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-920" y="2120" as="sourcePoint" />
+            <mxPoint x="-820" y="2050" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
