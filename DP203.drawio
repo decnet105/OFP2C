@@ -1,6 +1,6 @@
-<mxfile modified="2023-05-24T18:31:14.174Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DmxsAYI49ZkOpjZSmQgx" version="21.3.3" type="github">
+<mxfile modified="2023-05-24T18:37:40.251Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ifr_AlAbnT-HGTB_ePwG" version="21.3.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="2966" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2589" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,7 +324,7 @@
         </mxCell>
         <mxCell id="lLchY-0EjMVF6-OAYmTf-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;dashed=1;strokeWidth=5;strokeColor=#7EA6E0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="1500" as="sourcePoint" />
+            <mxPoint x="-10" y="2154.285714285714" as="sourcePoint" />
             <mxPoint x="-10" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -335,7 +335,7 @@
           <mxGeometry x="870" y="900" width="370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="H-HYAcEz1NRxXJfdhbBy-1" value="Azure Synapse Analytics Link for Cosmos DB enables&amp;nbsp;&lt;em style=&quot;box-sizing: inherit; outline-color: inherit; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;hybrid transactional/analytical processing&lt;/em&gt;&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(HTAP) integration between Azure Cosmos DB and Azure Synapse Analytics. By using this HTAP solution, organizations can make operational data in Azure Cosmos DB available for analysis and reporting in Azure Synapse Analytics in near-real time without the need to develop a complex ETL pipeline.&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-922" y="1600" width="762" height="120" as="geometry" />
+          <mxGeometry x="-923" y="1500" width="762" height="120" as="geometry" />
         </mxCell>
         <mxCell id="H-HYAcEz1NRxXJfdhbBy-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-gb/training/wwl-data-ai/configure-azure-synapse-link-with-azure-cosmos-db/media/synapse-link-cosmos-db.png;" vertex="1" parent="1">
           <mxGeometry x="-869" y="1800" width="600" height="243" as="geometry" />
@@ -347,6 +347,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-920" y="2120" as="sourcePoint" />
             <mxPoint x="-820" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-14" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;2. The container also provides a column-based analytical store that is optimized for analytical workloads. A fully managed autosync process keeps the data stores in sync.&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-874.37" y="2140" width="384.37" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-960" y="1440" as="sourcePoint" />
+            <mxPoint x="1240" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-16" value="&lt;ol style=&quot;box-sizing: inherit; outline-color: inherit; margin: 16px 0px 16px 38px; padding: 0px; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: decimal;&quot;&gt;Azure Synapse Link provides a linked service that connects the analytical store enabled container in Azure Cosmos DB to an Azure Synapse Analytics workspace.&lt;/li&gt;&lt;/ol&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-787.23" y="1640" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680" y="2120" as="sourcePoint" />
+            <mxPoint x="-680" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-HYAcEz1NRxXJfdhbBy-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="H-HYAcEz1NRxXJfdhbBy-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-567.73" y="1760" as="sourcePoint" />
+            <mxPoint x="-517.73" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
