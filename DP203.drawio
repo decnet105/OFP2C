@@ -1,6 +1,6 @@
-<mxfile modified="2023-05-29T18:14:27.165Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="t4edGVunADKORM9udYZL" version="21.3.5" type="github">
+<mxfile modified="2023-05-29T18:39:28.189Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2ZHNyNik_Syk36Cc4vp6" version="21.3.5" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="7980" dy="5347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="4303" dy="3080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -525,6 +525,12 @@
         </mxCell>
         <mxCell id="2LxDiO3omh3zpHz9xy9z-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-gb/training/wwl-data-ai/explore-azure-databricks/media/key-concepts.png;" vertex="1" parent="1">
           <mxGeometry x="4320" y="-362.81" width="1051.33" height="492.81" as="geometry" />
+        </mxCell>
+        <mxCell id="2LxDiO3omh3zpHz9xy9z-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/en-gb/training/wwl-data-ai/use-apache-spark-azure-databricks/media/spark-cluster-tasks.png;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="315.5" width="1038.4" height="324.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2LxDiO3omh3zpHz9xy9z-3" value="&lt;p style=&quot;box-sizing: inherit; outline-color: inherit; margin: 1rem 0px 0px; padding: 0px; overflow-wrap: break-word; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Spark parallelizes jobs at two levels:&lt;/p&gt;&lt;ul style=&quot;box-sizing: inherit; outline-color: inherit; margin: 16px 0px 16px 38px; padding: 0px; list-style: none; color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;The first level of parallelization is the&amp;nbsp;&lt;em style=&quot;box-sizing: inherit; outline-color: inherit;&quot;&gt;executor&lt;/em&gt;&amp;nbsp;- a Java virtual machine (JVM) running on a worker node, typically, one instance per node.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;The second level of parallelization is the&amp;nbsp;&lt;em style=&quot;box-sizing: inherit; outline-color: inherit;&quot;&gt;slot&lt;/em&gt;&amp;nbsp;- the number of which is determined by the number of cores and CPUs of each node.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;&quot;&gt;Each executor has multiple slots to which parallelized tasks can be assigned.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4310" y="160" width="1060" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
